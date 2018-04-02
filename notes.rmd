@@ -1,0 +1,14 @@
+---
+title: Frame
+author: Grace Han
+date: 31/03/18
+---
+
+# Notes
+ - use hough edge detection, python openCV
+ - flatten image first
+ - detect edges
+ - create json with component details
+ - use json to transpile wireframe to js/swift/java
+ - could have component library/defined themes
+ - look into react components 
